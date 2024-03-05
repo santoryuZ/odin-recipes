@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    border: 0px;
+}
+.recipe-list {
+    background-color: paleturquoise;
+    font-size: 30px;
+    text-decoration: none;
+}
+.dish :link {
+    color: purple;  
+}
+.dish :visited {
+    color: blue;
+}
+.dish :hover {
+    color: red;
+}
+.dish :active {
+    color: green;
+}
+ .header-top{
+    text-align: center;
+    background-color: aquamarine;
+    color: brown;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 78px;
+}
+
+h1 , h2 , h3 , h4 , strong , em  {
+    text-align: center !important;
+    background-color: aquamarine !important;
+    color: brown !important;
+    font-style: italic !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-size: 48px; 
+}
+.full-body {
+    color: brown;
+    text-align: center;
+}
